@@ -10,6 +10,6 @@
 - ปิด Notifications ที่ไม่จำเป็น
 - ลด Visual Effects ที่กินทรัพยากร
 
-## License
+## EditBy
 
-MIT
+Thapakorn
